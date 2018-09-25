@@ -1,0 +1,5 @@
+shoesgenerics.HighHeels
+shoesgenerics.Shoes
+shoesgenerics.FlipFlops
+shoesgenerics.ShoesGenerics
+shoesgenerics.Sneakers
